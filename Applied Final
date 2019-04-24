@@ -1,0 +1,52 @@
+APPLIED NETWORK SECURITY FINAL
+
+1.(Q&A) What is symmetric encryption? (draw figure)
+Represented algorithms (DES) (AES) Main features.
+What is assymetric key decryption? (draw figure)
+Represented algorithms (RSA)
+
+2. (Q&A) Digital signatures
+
+3. (Q&A) Hash functions
+Collision free
+
+4. (Term) Kerberos
+
+5. (Term) VPN
+
+6. (Q&A) John the Ripper
+Main features and where you can use it
+
+7. (Q&A) Virus scanners
+Signature matching
+Behavior Matching
+Heuristic Matching
+
+8. (Term) Screening Firewalls
+
+9. (Term) Patch
+
+10. (Q&A) Steps to make a network secure
+
+11. (Q&A) Steps to make a personal computer secure
+
+12. (Q&A) Man in the Middle Attack
+How it works
+Methods to implement MITM
+DNS poison how it works
+ARP poison how it works
+ARP how it works
+
+13. (Term) Human Flesh Search Engines
+
+14. (Term) Digital Forensics
+
+15. (Q&A) Main Process of DM
+Explain what each phase does
+(1 or 2 sentences for each step)
+
+16. (Term) Exploit (Metasploit)
+(Term) Payload
+Relationship between exploits and 
+
+17. (Term) Meterpreter
